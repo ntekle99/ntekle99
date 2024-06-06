@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Noah Tekle!
 
-![Profile Banner](your-banner-image-url)
-
 ## About Me
 I'm a [Your Title] with a passion for [Your Interests]. Currently, I'm working at [Your Company] as a [Your Position].
 
