@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Noah Tekle!
 
 ## About Me
-I'm a [Your Title] with a passion for [Your Interests]. Currently, I'm working at [Your Company] as a [Your Position].
-
 - 🔭 I’m currently working on building a large front-end website!
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on any swe projects
