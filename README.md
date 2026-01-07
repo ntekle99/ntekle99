@@ -19,15 +19,12 @@ I’m a software engineer focused on **ML systems, performance-critical software
 **Tools & Platforms:** AWS, Google Cloud, Databricks, PostgreSQL, Git  
 
 ## Selected Projects
-- **GPU-Accelerated Image Processing**  
-  Custom CUDA kernels with shared-memory tiling achieving 10× speedup over CPU implementations
-- **FastTransfer**  
-  High-throughput UDP-based file transfer protocol achieving 15× throughput over SCP on lossy, high-latency networks  
 - **Alpha Poker**  
   RL-driven poker platform using DQN and LSTM-based opponent modeling to adapt strategy in real time  
-- **Distributed Key-Value Store**  
-  Redis-inspired KV store with asynchronous replication and sub-millisecond P99 write latency  
- 
+- **FastTransfer**  
+  High-throughput UDP-based file transfer protocol achieving 15× throughput over SCP on lossy, high-latency networks    
+- **GPU-Accelerated Image Processing**  
+  Custom CUDA kernels with shared-memory tiling achieving 10× speedup over CPU implementations  
 
 ## Experience Highlights
 - **Adobe** — Built distributed data migration services processing ~10M rows/min into Databricks  
@@ -36,6 +33,4 @@ I’m a software engineer focused on **ML systems, performance-critical software
 
 ## Get in Touch
 - 📫 Email: ntekle@usc.edu  
-- 💼 LinkedIn: 
-https://www.linkedin.com/in/noah-tekle/
-
+- 💼 LinkedIn: https://www.linkedin.com/in/noah-tekle/
