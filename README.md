@@ -2,16 +2,16 @@
 
 I’m a software engineer focused on **ML systems, performance-critical software, and distributed systems**. I’m currently completing a combined **B.S./M.S. in Electrical & Computer Engineering at USC**, with an emphasis on **systems and machine learning**.
 
-## What I’m working on
+## What I’m Working On
 - Building **production ML and data systems** (most recently at Adobe, supporting large-scale Databricks pipelines)
 - Designing **high-performance systems** in C++ and CUDA
 - Exploring **reinforcement learning and decision-making systems**
 
 ## Interests
-- ML systems & infrastructure
-- Distributed systems and networking
-- Performance optimization (CUDA, concurrency, memory)
-- Applied reinforcement learning
+- ML systems & infrastructure  
+- Distributed systems and networking  
+- Performance optimization (CUDA, concurrency, memory)  
+- Applied reinforcement learning  
 
 ## Tech Stack
 **Languages:** C++, Python, JavaScript, SQL, CUDA C  
@@ -21,16 +21,21 @@ I’m a software engineer focused on **ML systems, performance-critical software
 ## Selected Projects
 - **Alpha Poker**  
   RL-driven poker platform using DQN and LSTM-based opponent modeling to adapt strategy in real time  
+
 - **FastTransfer**  
-  High-throughput UDP-based file transfer protocol achieving 15× throughput over SCP on lossy, high-latency networks    
+  High-throughput UDP-based file transfer protocol achieving **15× throughput** over SCP on lossy, high-latency networks  
+
 - **GPU-Accelerated Image Processing**  
-  Custom CUDA kernels with shared-memory tiling achieving 10× speedup over CPU implementations  
+  Custom CUDA kernels with shared-memory tiling achieving **10× speedup** over CPU implementations  
+
+- **LLM Inference & Training Optimization**  
+  Performance-optimized LLaMA inference and fine-tuning pipeline focused on memory efficiency and runtime throughput  
 
 ## Experience Highlights
-- **Adobe** — Built distributed data migration services processing ~10M rows/min into Databricks  
-- **Apple** — Applied ML research; co-authored ACM paper with 40% recommendation accuracy improvement  
-- **Southern California Edison** — Automated failure detection systems reducing response times by 25%
+- **Adobe** — Built distributed data migration services processing ~**10M rows/min** into Databricks  
+- **Apple** — Applied ML research; co-authored ACM paper with **40% recommendation accuracy improvement**  
+- **Southern California Edison** — Automated failure detection systems reducing response times by **25%**  
 
 ## Get in Touch
-- 📫 Email: ntekle@usc.edu  
+- 📫 Email: **ntekle@usc.edu**  
 - 💼 LinkedIn: https://www.linkedin.com/in/noah-tekle/
