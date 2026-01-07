@@ -1,23 +1,40 @@
-# Hi there 👋, I'm Noah Tekle!
+# Hi 👋 I’m Noah Tekle
 
-## About Me
-- 🔭 I’m currently working on building a large front-end website!
-- 🌱 I’m currently learning machine learning
-- 👯 I’m looking to collaborate on any swe projects
-- 📫 How to reach me: ntekle@usc.edu
-- ⚡ Fun fact: I took my LinkedIn profile picture at LinkedIn headquaters from a LinkedIn photographer
+I’m a software engineer focused on **ML systems, performance-critical software, and distributed systems**. I’m currently completing a combined **B.S./M.S. in Electrical & Computer Engineering at USC**, with an emphasis on **systems and machine learning**.
 
-## Skills
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-8C1515?logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+## What I’m working on
+- Building **production ML and data systems** (most recently at Adobe, supporting large-scale Databricks pipelines)
+- Designing **high-performance systems** in C++ and CUDA
+- Exploring **reinforcement learning and decision-making systems**
 
-## Projects
-- [Project 1](https://github.com/ntekle99/stick_figure_mario): Developed a 2D platforming game entirely in Verilog, demonstrating proficiency in hardware description language, FPGA utilization, and verification tools such as Vivado.
-- [Project 2](https://github.com/ntekle99/Security_camera): Spearheaded the development of a sophisticated security camera system using ultrasonic motion detection and Python scripting, creating practical uses out of a raspberry pi.
+## Interests
+- ML systems & infrastructure
+- Distributed systems and networking
+- Performance optimization (CUDA, concurrency, memory)
+- Applied reinforcement learning
 
+## Tech Stack
+**Languages:** C++, Python, JavaScript, SQL, CUDA C  
+**Frameworks:** PyTorch, Flask, React  
+**Tools & Platforms:** AWS, Google Cloud, Databricks, PostgreSQL, Git  
+
+## Selected Projects
+- **Alpha Poker**  
+  RL-driven poker platform using DQN and LSTM-based opponent modeling to adapt strategy in real time  
+- **FastTransfer**  
+  High-throughput UDP-based file transfer protocol achieving 15× throughput over SCP on lossy, high-latency networks  
+- **Distributed Key-Value Store**  
+  Redis-inspired KV store with asynchronous replication and sub-millisecond P99 write latency  
+- **GPU-Accelerated Image Processing**  
+  Custom CUDA kernels with shared-memory tiling achieving 10× speedup over CPU implementations  
+
+## Experience Highlights
+- **Adobe** — Built distributed data migration services processing ~10M rows/min into Databricks  
+- **Apple** — Applied ML research; co-authored ACM paper with 40% recommendation accuracy improvement  
+- **Southern California Edison** — Automated failure detection systems reducing response times by 25%
 
 ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/noah-tekle/)
-
+- 📫 Email: ntekle@usc.edu  
+- 💼 LinkedIn: 
+https://www.linkedin.com/in/noah-tekle/
 
