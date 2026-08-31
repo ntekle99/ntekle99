@@ -1,41 +1,14 @@
-# Hi 👋 I’m Noah Tekle
+# Noah tekle
 
-I’m a software engineer focused on **ML systems, performance-critical software, and distributed systems**. I’m currently completing a combined **B.S./M.S. in Electrical & Computer Engineering at USC**, with an emphasis on **systems and machine learning**.
+Thx for viewing the profile! I'm a master's student at usc. 
+i build systems stuff: c++, cuda, distributed systems, ml infra, etc.
 
-## What I’m Working On
-- Building **production ML and data systems** (most recently at Adobe, supporting large-scale Databricks pipelines)
-- Designing **high-performance systems** in C++ and CUDA
-- Exploring **reinforcement learning and decision-making systems**
+currently at nvidia  
+previously at adobe, apple, and usc oasis lab
 
-## Interests
-- ML systems & infrastructure  
-- Distributed systems and networking  
-- Performance optimization (CUDA, concurrency, memory)  
-- Applied reinforcement learning  
+probably optimizing something that was already fast  
+or debugging something that should have worked
 
-## Tech Stack
-**Languages:** C++, Python, JavaScript, SQL, CUDA C  
-**Frameworks:** PyTorch, Flask, React  
-**Tools & Platforms:** AWS, Google Cloud, Databricks, PostgreSQL, Git  
+now look at some projects!
 
-## Selected Projects
-- **Alpha Poker**  
-  RL-driven poker platform using DQN and LSTM-based opponent modeling to adapt strategy in real time  
-
-- **FastTransfer**  
-  High-throughput UDP-based file transfer protocol achieving **15× throughput** over SCP on lossy, high-latency networks  
-
-- **GPU-Accelerated Image Processing**  
-  Custom CUDA kernels with shared-memory tiling achieving **10× speedup** over CPU implementations  
-
-- **LLM Inference & Training Optimization**  
-  Performance-optimized LLaMA inference and fine-tuning pipeline focused on memory efficiency and runtime throughput  
-
-## Experience Highlights
-- **Adobe** — Built distributed data migration services processing ~**10M rows/min** into Databricks  
-- **Apple** — Applied ML research; co-authored ACM paper with **40% recommendation accuracy improvement**  
-- **Southern California Edison** — Automated failure detection systems reducing response times by **25%**  
-
-## Get in Touch
-- 📫 Email: **ntekle@usc.edu**  
-- 💼 LinkedIn: https://www.linkedin.com/in/noah-tekle/
+[email](mailto:ntekle@usc.edu) <> [linkedin](https://www.linkedin.com/in/noah-tekle/) <> [github](https://github.com/ntekle99)
