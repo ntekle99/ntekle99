@@ -4,7 +4,6 @@ Thx for viewing the profile! I'm a master's student at usc.
 i build systems stuff: c++, cuda, distributed systems, ml infra, etc.
 
 currently at nvidia  
-previously at adobe, apple, and usc oasis lab
 
 probably optimizing something that was already fast  
 or debugging something that should have worked
