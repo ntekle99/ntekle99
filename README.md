@@ -1,13 +1,12 @@
-# Noah tekle
+# Noah Tekle
 
-Thx for viewing the profile! I'm a master's student at usc. 
-i build systems stuff: c++, cuda, distributed systems, ml infra, etc.
+SWE @ NVIDIA · ECE MS @ USC
 
-currently at nvidia  
+I build software systems, AI infrastructure, and ML tools that make hard
+technical workflows easier. 
 
-probably optimizing something that was already fast  
-or debugging something that should have worked
+Right now I'm a SWE intern at NVIDIA, building internal infra and tooling for the
+photonics labs, and finishing my M.S. in ECE at USC. Before that I did: Adobe, an Apple
+ML research fellowship (paper at ACM RecSys), and SCE.
 
-now look at some projects!
-
-[email](mailto:ntekle@usc.edu) <> [linkedin](https://www.linkedin.com/in/noah-tekle/) <> [github](https://github.com/ntekle99)
+email · linkedin · github
